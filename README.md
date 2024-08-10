@@ -1,13 +1,13 @@
-#COVID-19 Data Analysis Using Tableau
+# COVID-19 Data Analysis Using Tableau
 
-##Overview
+## Overview
 This project presents an analysis of COVID-19 data specific to India using Tableau. The data was sourced from Kaggle and additional geographic information was retrieved from GitHub. The analysis covers various aspects of the COVID-19 pandemic, including state-wise death tolls, age group details for confirmed cases, vaccine administration, testing details, and more.
 
-##Dataset
+## Dataset
 COVID-19 Data: The primary dataset was obtained from Kaggle and includes information on confirmed cases, deaths, recoveries, testing, and vaccination details across India.
 Indian State Boundaries: A shapefile containing the boundaries of Indian states was downloaded from GitHub to create geographic visualizations.
 
-##Analysis
+## Analysis
 The following key analyses were performed using Tableau:
 
 1. Total Deaths by State in India
@@ -27,12 +27,12 @@ Comparison of the administration of the first and second doses of COVID-19 vacci
 8. State-wise Testing Details
 Detailed analysis of testing across states, including the total number of samples tested, and the breakdown of negative and positive cases.
 
-##Tools and Technologies Used
+## Tools and Technologies Used
 Tableau: For data visualization and analysis.
 Kaggle: For sourcing the COVID-19 dataset.
 GitHub: For downloading the Indian state boundaries file.
 
-##How to Use
+## How to Use
 Dataset Access: Ensure you have access to the Kaggle dataset and the Indian state boundaries shapefile from GitHub.
 Tableau Setup: Import the datasets into Tableau.
 Visualization Creation: Follow the analyses mentioned above to create visualizations in Tableau.
@@ -40,6 +40,6 @@ Insights: Use the insights derived from the visualizations to understand the imp
 Conclusion
 This project provides a comprehensive view of the COVID-19 situation in India, with a focus on geographic, demographic, and healthcare-related aspects. The visualizations created using Tableau offer valuable insights that can aid in understanding the pandemic's progression and impact across the country.
 
-##Acknowledgments
+## Acknowledgments
 Kaggle: For providing the COVID-19 dataset.
 GitHub: For the Indian state boundaries shapefile.
